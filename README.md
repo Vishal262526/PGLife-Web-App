@@ -18,4 +18,12 @@ PGLife web app is for students who came from a another city and find PGs, Studen
 * Like or Disklike PGs as a favorite
 * All PGs information like price,gender,PG name, PG rating, PG description etc are given in the web app
 * Logout
-* 
+
+# Technologies Used
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+* PHP
+* MYSQL
+* React
