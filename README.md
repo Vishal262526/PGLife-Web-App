@@ -27,3 +27,9 @@ PGLife web app is for students who came from a another city and find PGs, Studen
 * PHP
 * MYSQL
 * React
+
+# Note
+for dummy data there are 5 PGs in 2 cities in the PGLife web app
+* 2 PGs for Delhi
+* 3 PGs for Mumbai
+all the data are dummy data
