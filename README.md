@@ -10,3 +10,12 @@ PGLife web app is for students who came from a another city and find PGs, Studen
 * mysql information like localhost, username, password,database name according to your mysql information
 * and open your local server for this project directory 
 * all done.
+
+# Features
+* Sign Up (Student create his/her account and this information stored in a database)
+* Sign In (Student sign in your account if they have an account in the web app)
+* Search PGs by City name
+* Like or Disklike PGs as a favorite
+* All PGs information like price,gender,PG name, PG rating, PG description etc are given in the web app
+* Logout
+* 
